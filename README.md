@@ -41,7 +41,7 @@ The vulnerability at each stage is randomized by PortSwigger, so this writeup is
 
 ## 📬 Connect
 
-**Author:** Dhruv
+**Author:** Dhruv Sharma
 
 If you found this writeup helpful, feel free to star ⭐ this repo or connect with me on LinkedIn.
 
