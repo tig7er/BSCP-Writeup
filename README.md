@@ -34,11 +34,6 @@ The vulnerability at each stage is randomized by PortSwigger, so this writeup is
 - Burp Collaborator
 - Burp Intruder
 
-## 🙏 Acknowledgements
-
-- **PortSwigger** — for the Web Security Academy, the best free practical resource for learning web application security.
-- **Almadad Ali** and **Avinesh Jangir** — for their guidance and support throughout this preparation.
-
 ## 📬 Connect
 
 **Author:** Dhruv Sharma
